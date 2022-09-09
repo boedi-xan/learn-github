@@ -1,2 +1,3 @@
 ini adalah contoh file yang dibuat dalam learn github
 ini adalah contoh teks yang ditambahkan ke dalam file
+jika masuk ke dalam branch maka teks ini dapat dilihat
