@@ -3,3 +3,4 @@ ini adalah contoh teks yang ditambahkan ke dalam file
 jika masuk ke dalam branch maka teks ini dapat dilihat
 
 merge pertama selesai, ini adalah cabang kedua
+penambahan teks di branch 2
