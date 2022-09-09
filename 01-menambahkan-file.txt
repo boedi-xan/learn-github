@@ -4,3 +4,4 @@ jika masuk ke dalam branch maka teks ini dapat dilihat
 
 merge pertama selesai, ini adalah cabang kedua
 penambahan teks di branch 2
+ini adalah tambahan lain branch 2
