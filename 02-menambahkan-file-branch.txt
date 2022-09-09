@@ -2,3 +2,5 @@ ini adalah isi file yang ada di dalam branch
 file ini tidak ada di dalam main
 file in haya bisa dilihat jika masuk ke branch ini
 kecuali jika branch ini dimerge, maka file ini akan muncul di main
+
+ini penambahan teks di main setelah dimerge
