@@ -1,3 +1,2 @@
 ini adalah contoh file yang dibuat dalam learn github
 ini adalah contoh teks yang ditambahkan ke dalam file
-ini adlah contoh teks yang dihapus di dalam file
